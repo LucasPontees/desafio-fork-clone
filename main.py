@@ -1,5 +1,3 @@
-
-
 def calcular_media(lista):
     soma = 0
 
@@ -56,5 +54,3 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
-
